@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_marginVertical="10dp"
+    android:layout_gravity="end"
+    android:gravity="end"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_gravity="end"
+        android:padding="10dp"
+        android:background="@drawable/bg_msg_enviado"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvMessage"
+            android:layout_width="match_parent"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:text="Mensaje de prueba"/>
+        <TextView
+            android:id="@+id/tvHour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2:35 p.m."
+            android:textColor="#9D9D9D"
+            android:textAlignment="textEnd"/>
+    </LinearLayout>
+</LinearLayout>

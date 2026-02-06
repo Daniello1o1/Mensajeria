@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "155734572412",
+    "firebase_url": "https://project-8349736956423164261-default-rtdb.firebaseio.com",
+    "project_id": "project-8349736956423164261",
+    "storage_bucket": "project-8349736956423164261.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155734572412:android:61c2a235b32d393ba9f8f9",
+        "android_client_info": {
+          "package_name": "com.upiiz.eje_dja_16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXDTmylGMgScRALxCKIudVl3PC4w7utpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155734572412:android:a60b01c84837b2f6a9f8f9",
+        "android_client_info": {
+          "package_name": "com.upiiz.eje_dja_17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXDTmylGMgScRALxCKIudVl3PC4w7utpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155734572412:android:59c68eedcb670fafa9f8f9",
+        "android_client_info": {
+          "package_name": "com.upiiz.examen_dja_03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXDTmylGMgScRALxCKIudVl3PC4w7utpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
